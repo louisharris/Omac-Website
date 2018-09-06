@@ -1,0 +1,17 @@
+#omaclogo {
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+	height: 250px;
+	width: auto;
+}
+	
+#logodiv {
+	margin:0 auto;
+	margin-top: 40px;
+	width: 50%;
+}
+	
+body {
+    background-color: #0D4457;
+}
